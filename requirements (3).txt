@@ -1,0 +1,3 @@
+# All packages below are pre-installed by Streamlit Cloud:
+# streamlit, pandas, numpy, altair
+# No additional packages needed — app uses only built-in libraries!
